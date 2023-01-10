@@ -1,4 +1,5 @@
 ﻿using Assessments.Leetcode;
-var s = "abccccdd";
-var lon = LongestPalindrome.Solution(s);
-Console.WriteLine(lon);
+
+var nums = new [] {2, 5};
+var tat = BinarySearch.Solution(nums, 5);
+Console.Write(150 + (200 - 150)/2);
